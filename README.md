@@ -11,7 +11,7 @@
 
 **Hamara Desh Bharat** is a website designed to celebrate and showcase the rich cultural diversity and heritage of India. It is a platform where users can explore India's history, traditions, and vibrant cultural landscape. The website features various sections dedicated to Indian culture, festivals, architecture, and more, offering a unique glimpse into the nation's heritage.
 
-Visit the website here: [Hamara Desh Bharat](https://kumardarun11.github.io/hamara-desh-bharat/)  
+Visit the website here: [Hamara Desh Bharat]((https://manishsshaw.github.io/humara-desh-bharat/))  
 *For better viewing, it's recommended to access the site on a PC or Laptop.*
 
 > **Note**: The Sign-in/Sign-up page is designed to run on `localhost` and may not work properly in this online version. For full functionality, clone the repository and run it locally on your system.
