@@ -78,6 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 - **Manish Shaw**(Team Leader)
+- **D Arun Kumar**(Assist)
 - **TEAM CODE_CRAZERS**
 
 If you have any suggestions, feel free to contribute or open an issue.
